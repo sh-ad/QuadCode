@@ -1,2 +1,2 @@
 # QuadCode
-Test work for DevRel job
+Test for DevRel job
